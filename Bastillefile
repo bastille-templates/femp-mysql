@@ -21,4 +21,4 @@ CMD cd /usr/local/www/phpMyAdmin/sql && mysql < create_tables.sql
 CMD chown -R www:www /usr/local/www/phpMyAdmin
 
 SERVICE php_fpm restart
-SERVICE apache24 restart
+SERVICE nginx restart
