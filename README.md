@@ -1,4 +1,4 @@
-# FEMP (FreeBSD, Apache, MySQL, PHP/PHPMyAdmin)
+# FEMP (FreeBSD, Nginx, MySQL, and PHP(PHPMyAdmin))
 ## Now apply template to container
 ```sh
 bastille create femp-mysql 14.1-RELEASE YourIP-Bastille
