@@ -1,4 +1,5 @@
 # install required famp
+INCLUDE https://github.com/bastille-templates/openssl
 INCLUDE https://github.com/bastille-templates/nginx
 INCLUDE https://github.com/bastille-templates/php
 INCLUDE https://github.com/bastille-templates/mysql
